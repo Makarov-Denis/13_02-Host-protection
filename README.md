@@ -46,9 +46,24 @@
 3. Зашифруйте созданный раздел с помощью LUKS.
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
-```
 
-```
+### Ответ:
+
+Выполнение задания представлено на скриншотах ниже:
+
+![103](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/3f94917a-ecf8-4577-addc-fbc676261156)
+
+![104](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/a3f816a2-ee08-44c6-a546-72ee51b27bfb)
+
+![105](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/372278a1-796b-47e3-9722-d917f799a8db)
+
+![106](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/d4d49526-226a-4016-ae31-77956a07ce65)
+
+![107](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/9a95eb90-da33-495d-bcec-17bcdfea6592)
+
+![108](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/60dfbac0-e4c5-4554-b386-9d870d6b1c7d)
+
+![109](https://github.com/Makarov-Denis/13_02-Host-protection/assets/148921246/cdf0866f-5950-467f-bef1-b21345ad5532)
 
 ---
 
